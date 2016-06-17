@@ -8,8 +8,6 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<akka.version>2.4.2</akka.version>
-		<osgi.version>6.0.0</osgi.version>
 	</properties>
 
 	<build>
